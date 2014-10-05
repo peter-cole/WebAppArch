@@ -12,10 +12,5 @@ class Controller
 	{
 		$this->model = $model;
 	}
-	
-	public function clicked()
-	{
-		$this->model->str = "data successfully updated.";
-	}
 }
 ?>
