@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="MVCExample"/>
+	<buildpathentry kind="src" path="MVCStatic"/>
+	<buildpathentry kind="src" path="simpletest"/>
+	<buildpathentry kind="src" path="TDD_Example/app"/>
+	<buildpathentry kind="src" path="TDD_Example/appTests"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
